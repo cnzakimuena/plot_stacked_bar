@@ -17,7 +17,7 @@ pip install -r requirements.txt
 Usage:
 
 ```bash
-python stacked_bar_plot.py
+python plot_stacked_bar.py
 ```
 
 <p align="center">
