@@ -24,10 +24,6 @@ python plot_stacked_bar.py
     <img src="figure.png" alt="example image" height="500">
 </p>
 
-Cite As
-
-[Nzakimuena, C. B., Solano, M. M., Marcotte-Collard, R., Lesk, M. R., & Costantino, S. (2025). Spatial and temporal changes in choroid morphology associated with long-duration spaceflight. Investigative Ophthalmology & Visual Science, 66(5), 17-17.](https://doi.org/10.1167/iovs.66.5.17)
-
 ### References
 
 1. [Ritchie, H., & Rosado, P. (2020). Electricity mix. Our world in data.](https://ourworldindata.org/electricity-mix?gsid=5aa1a303-5872-479b-ab4b-042d60cd9684)
